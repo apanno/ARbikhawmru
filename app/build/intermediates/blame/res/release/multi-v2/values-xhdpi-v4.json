@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xhdpi-v4\\values-xhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,109",
+                        "endColumns": "48,48",
+                        "endOffsets": "103,153"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,48",
+                        "endOffsets": "99,148"
+                    }
+                }
+            ]
+        }
+    ]
+}

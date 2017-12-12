@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "56,104",
+                        "startOffsets": "59,108",
                         "endColumns": "47,48",
-                        "endOffsets": "99,148"
+                        "endOffsets": "102,152"
                     },
                     "to": {
                         "startLines": "2,3",

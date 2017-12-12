@@ -1,86 +1,126 @@
 [
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\splash_screen.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sat.jpg.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\sat.jpg"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_divider.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable\\icon.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_fullscreen_layout.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\fullscreen_layout.xml"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_layer.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vuforia_splash.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arcer_bg.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\arcer_bg.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_fullscreen_layout.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\fullscreen_layout.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arcom.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\arcom.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arsat.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\arsat.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_screen.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\about_screen.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arcer.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-xxhdpi\\arcer.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_screen.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\splash_screen.xml"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_com.jpg.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\com.jpg"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_radio_button.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_screen.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\about_screen.xml"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
-        "merged": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group.xml.flat",
-        "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_app_menu_group_radio_button.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arcer.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-xhdpi\\arcer.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arcer.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\arcer.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_arcer.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-ldpi\\arcer.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\layout_camera_overlay.xml.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vuforia_splash.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arcer.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-hdpi\\arcer.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arcer.png.flat",
+        "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\drawable-mdpi\\arcer.png"
     }
 ]

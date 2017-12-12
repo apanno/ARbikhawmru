@@ -1,38 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4_values-xxhdpi-v4.arsc.flat",
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values-ldpi-v4_values-ldpi-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "56,104",
-                        "endColumns": "47,48",
-                        "endOffsets": "99,148"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,103",
-                        "endColumns": "47,48",
-                        "endOffsets": "98,147"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "56,105",
+                        "startOffsets": "59,109",
                         "endColumns": "48,49",
-                        "endOffsets": "100,150"
+                        "endOffsets": "103,154"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -45,113 +23,16 @@
             ]
         },
         {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values-ldpi-v4_values-ldpi-v4.arsc.flat",
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4_values-xhdpi-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-ldpi\\dimens.xml",
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "56,105",
-                        "endColumns": "48,49",
-                        "endOffsets": "100,150"
-                    },
-                    "to": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,104",
-                        "endColumns": "48,49",
-                        "endOffsets": "99,149"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "115",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "337"
-                    },
-                    "to": {
-                        "startLines": "42",
-                        "startColumns": "4",
-                        "startOffsets": "3329",
-                        "endLines": "45",
-                        "endColumns": "12",
-                        "endOffsets": "3551"
-                    }
-                },
-                {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,6,3,7,8,5",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "106,186,56,225,270,146",
-                        "endColumns": "39,38,49,44,58,39",
-                        "endOffsets": "141,220,101,265,324,181"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,95,134,184,229,288",
-                        "endColumns": "39,38,49,44,58,39",
-                        "endOffsets": "90,129,179,224,283,323"
-                    }
-                },
-                {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "7,5,6,8,9,3,4",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "247,148,197,305,366,56,98",
-                        "endColumns": "57,48,49,60,65,41,49",
-                        "endOffsets": "300,192,242,361,427,93,143"
-                    },
-                    "to": {
-                        "startLines": "8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "328,386,435,485,546,612,654",
-                        "endColumns": "57,48,49,60,65,41,49",
-                        "endOffsets": "381,430,480,541,607,649,699"
-                    }
-                },
-                {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "8,9,10,16,13,11,12,15,14,17,18,4,3,6,19,28,30,29,24,26,25,20,21,23,22,27,32",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "239,284,404,1344,951,512,758,1202,1084,1500,1755,105,56,187,1846,2473,2572,2520,2150,2304,2207,1890,1959,2076,2004,2404,2631",
-                        "endColumns": "44,119,107,155,132,245,192,141,117,254,90,76,48,46,43,46,49,51,56,99,96,68,44,73,71,68,68",
-                        "endOffsets": "279,399,507,1495,1079,753,946,1339,1197,1750,1841,177,100,229,1885,2515,2617,2567,2202,2399,2299,1954,1999,2145,2071,2468,2695"
-                    },
-                    "to": {
-                        "startLines": "15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "704,749,869,977,1133,1266,1512,1705,1847,1965,2220,2311,2388,2437,2484,2528,2575,2625,2677,2734,2834,2931,3000,3045,3119,3191,3260",
-                        "endColumns": "44,119,107,155,132,245,192,141,117,254,90,76,48,46,43,46,49,51,56,99,96,68,44,73,71,68,68",
-                        "endOffsets": "744,864,972,1128,1261,1507,1700,1842,1960,2215,2306,2383,2432,2479,2523,2570,2620,2672,2729,2829,2926,2995,3040,3114,3186,3255,3324"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values-xhdpi-v4_values-xhdpi-v4.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-xhdpi\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "56,105",
+                        "startOffsets": "59,109",
                         "endColumns": "48,48",
-                        "endOffsets": "100,149"
+                        "endOffsets": "103,153"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -164,17 +45,39 @@
             ]
         },
         {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values-v13_values-v13.arsc.flat",
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values-mdpi-v4_values-mdpi-v4.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,109",
+                        "endColumns": "48,49",
+                        "endOffsets": "103,154"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,104",
+                        "endColumns": "48,49",
+                        "endOffsets": "99,149"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values-v13_values-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-v13\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "115",
+                        "startOffsets": "118",
                         "endLines": "6",
                         "endColumns": "12",
-                        "endOffsets": "343"
+                        "endOffsets": "349"
                     },
                     "to": {
                         "startLines": "2",
@@ -188,16 +91,106 @@
             ]
         },
         {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\res\\merged\\debug\\values-mdpi-v4_values-mdpi-v4.arsc.flat",
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-mdpi\\dimens.xml",
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,3,6,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,4,4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,116,59,198,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,74,55,43,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,186,110,237,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "704,749,869,977,1133,1266,1512,1705,1847,1965,2220,2311,2362,2437,2493,2537,2581,2628,2678,2730,2787,2887,2984,3053,3098,3172,3244,3313",
+                        "endColumns": "44,119,107,155,132,245,192,141,117,254,90,50,74,55,43,43,46,49,51,56,99,96,68,44,73,71,68,68",
+                        "endOffsets": "744,864,972,1128,1261,1507,1700,1842,1960,2215,2306,2357,2432,2488,2532,2576,2623,2673,2725,2782,2882,2979,3048,3093,3167,3239,3308,3377"
+                    }
+                },
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "43",
+                        "startColumns": "4",
+                        "startOffsets": "3382",
+                        "endLines": "46",
+                        "endColumns": "12",
+                        "endOffsets": "3604"
+                    }
+                },
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "328,386,435,485,546,612,654",
+                        "endColumns": "57,48,49,60,65,41,49",
+                        "endOffsets": "381,430,480,541,607,649,699"
+                    }
+                },
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,95,134,184,229,288",
+                        "endColumns": "39,38,49,44,58,39",
+                        "endOffsets": "90,129,179,224,283,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4_values-xxhdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "56,105",
+                        "startOffsets": "59,108",
+                        "endColumns": "47,48",
+                        "endOffsets": "102,152"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,48",
+                        "endOffsets": "98,147"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4_values-hdpi-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "59,109",
                         "endColumns": "48,49",
-                        "endOffsets": "100,150"
+                        "endOffsets": "103,154"
                     },
                     "to": {
                         "startLines": "2,3",

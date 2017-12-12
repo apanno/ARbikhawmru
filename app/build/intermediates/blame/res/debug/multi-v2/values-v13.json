@@ -1,17 +1,17 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Android\\ARVideoPlayback\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "outputFile": "C:\\Android\\ARbikhawmru\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Android\\ARVideoPlayback\\app\\src\\main\\res\\values-v13\\styles.xml",
+                    "source": "C:\\Android\\ARbikhawmru\\app\\src\\main\\res\\values-v13\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "115",
+                        "startOffsets": "118",
                         "endLines": "6",
                         "endColumns": "12",
-                        "endOffsets": "343"
+                        "endOffsets": "349"
                     },
                     "to": {
                         "startLines": "2",
