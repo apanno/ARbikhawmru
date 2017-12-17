@@ -15,11 +15,11 @@ android {
 
 
     defaultConfig {
-        applicationId "com.vuforia.samples.VideoPlayback"
+        applicationId "com.apanno.arcer.Bikhwamru"
         minSdkVersion 19
         targetSdkVersion 22
-        versionCode 200
-        versionName "5.0"
+        versionCode 202
+        versionName "1.2"
     }
 	
     archivesBaseName = rootProject.projectDir.getName()
